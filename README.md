@@ -12,6 +12,12 @@ TVBox Web 是一个基于 Cloudflare Workers 的多资源站影视播放器。
 
 采用 HTML、CSS、JavaScript 构建前端页面，使用 Cloudflare Workers 处理跨域代理请求，无需单独部署前端服务器。
 
+## 🌐 项目示例
+
+**在线演示：** https://mo3.feifanlib.com/
+
+欢迎体验！
+
 ## 🚀 主要功能
 
 - **多资源站聚合**：支持读取 Meow JSON 配置，自动加载多个影视资源站。
